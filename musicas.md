@@ -1,3 +1,3 @@
-dont stop me now
-we are the champions
-Bohemian Rhapsody
+dont stop me now,
+we are the champions,
+Bohemian Rhapsody,
