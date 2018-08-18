@@ -1,4 +1,5 @@
 # devops-aula02
 Tom Hardy
-Leonardo DiCaprio
+Tom Holland
 Chris Pratt
+Chris Hemsworth
